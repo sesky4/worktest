@@ -6,7 +6,7 @@ import (
 )
 
 func GetVersion() string {
-	return "0.0.1"
+	return "0.0.3"
 }
 
 func PrintVersion() {
